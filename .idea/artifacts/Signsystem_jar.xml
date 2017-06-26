@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Signsystem:jar">
+    <output-path>//BYVTRX-MAC/Plugins</output-path>
+    <root id="archive" name="Signsystem.jar">
+      <element id="module-output" name="Signsystem" />
+    </root>
+  </artifact>
+</component>
